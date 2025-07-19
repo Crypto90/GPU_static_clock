@@ -1,3 +1,10 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K314GUP)
+
+# Download:
+
+[Download v1.0.0](https://github.com/Crypto90/GPU_static_clock/releases/download/1.0.0/GPU_static_clock_1.0.0.zip)
+
+
 # GPU_static_clock
 2 bat  files to set and unset a static gpu clock rate. To fix nvidia broadcast microphone audio crackling in cases where the clock rate variates too much.
 
