@@ -14,4 +14,6 @@ Change this to your max available clock rate for your gpu.
 
 
 # How it works as a stream deck switch button:
+![static_gpu_clock_small](https://github.com/user-attachments/assets/3aeca381-aa95-4f09-a245-86b8760f84f9)
+
 
